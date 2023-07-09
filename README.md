@@ -48,7 +48,8 @@ yarn
 To use the application, start the development server:
 
 ```bash
-yarn start
+yarn dev
+
 ```
 
 The application should now be running at `http://localhost:3000`.
